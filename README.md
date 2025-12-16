@@ -26,6 +26,11 @@ This project solves that problem by using **LLMs** to automatically generate por
 
 ---
 
+## Generated Portfolio Interface
+<img width="1470" height="956" alt="Resume to Portfolio snapshot" src="https://github.com/user-attachments/assets/79eb9fa6-e35f-43ac-9093-1994689e3fc4" />
+
+---
+
 ## ✨ Features
 
 * Upload a resume (PDF)
@@ -92,11 +97,6 @@ python -m streamlit run main.py
 ## Visit Generated Portfolio 
 
 [portfolio link](https://vidyasagar2405.github.io/langchain-streamlit-Automated-Resume-to-Portfolio-Generator/)
-
----
-
-## Generated Portfolio Interface
-<img width="1470" height="956" alt="Resume to Portfolio snapshot" src="https://github.com/user-attachments/assets/79eb9fa6-e35f-43ac-9093-1994689e3fc4" />
 
 ---
 
