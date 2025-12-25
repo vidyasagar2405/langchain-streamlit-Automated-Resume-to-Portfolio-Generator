@@ -1,6 +1,6 @@
-# langchain-streamlit-Automated-Resume-to-Portfolio-Generator
+# Automated Resume to Portfolio Generator - using langchain and streamlit
 
-An AI-powered application that transforms a resume into a clean, professional, and responsive portfolio website using **LangChain** and **Streamlit**.
+An AI-powered application that transforms a resume pdf into a clean, professional, and responsive portfolio website using **LangChain** and **Streamlit**.
 
 This project demonstrates how Generative AI can automate real-world workflows by converting static resume data into a structured, deployable personal portfolio.
 
@@ -63,7 +63,8 @@ This project solves that problem by using **LLMs** to automatically generate por
 1. Clone the repository
 
 ```bash
-git clone https://github.com/vidyasagar2405/langchain-streamlit-Automated-Resume-to-Portfolio-Generator.git
+git clone https://github.com/vidyasagar2405/resume-to-portfolio-generator.git
+cd resume-to-portfolio-generator
 ```
 
 2. Install dependencies
@@ -101,6 +102,6 @@ python -m streamlit run main.py
 ---
 
 ## Demo Video
-[Youtube](https://youtu.be/d1UapWKGG_o)
+## [Video](https://youtu.be/d1UapWKGG_o)
 
 ---
