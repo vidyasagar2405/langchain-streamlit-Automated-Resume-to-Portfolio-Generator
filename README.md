@@ -97,7 +97,7 @@ python -m streamlit run main.py
 
 ## Visit Generated Portfolio 
 
-[portfolio link](https://vidyasagar2405.github.io/langchain-streamlit-Automated-Resume-to-Portfolio-Generator/)
+[portfolio link](https://vidyasagar2405.github.io/resume-to-portfolio-generator/)
 
 ---
 
